@@ -7,7 +7,7 @@
 
 Для установки сервера необходимо следующее:
 
-Скачать сервер с репозитория [https://github.com/Kyer41/journal];
+Скачать сервер с репозитория [https://github.com/DorzhoTsok/Kursovaya-rabota];
 Необходимо установить 'Visual Studio' с 'IIS Express';
 Руководство пользователя
 Подключение к серверу
